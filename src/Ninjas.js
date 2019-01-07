@@ -1,6 +1,6 @@
 //THIS IS A FUNCTIONAL COMPONENT
 import React from 'react';
-
+import "./Ninjas.css";
 const Ninjas = ({ninjas, deleteNinja}) => {
 
 /*   
